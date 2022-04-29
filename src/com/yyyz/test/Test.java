@@ -8,5 +8,8 @@ public class Test {
 
         System.out.println("hello1");
         //注释
+
+
+        System.out.println("你好");
     }
 }
