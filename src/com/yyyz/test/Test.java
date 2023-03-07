@@ -13,5 +13,7 @@ public class Test {
         System.out.println("你好");
 
         System.out.println("aaa");
+
+        System.out.println("bbb");
     }
 }
